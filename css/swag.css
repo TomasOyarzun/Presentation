@@ -1,11 +1,11 @@
 @media (min-width: 481px){
 	.space-top{
-		margin-top: 35vh;
+		margin-top: 12vh;
 	}
 	.photo-style{
 		position: relative;
 		bottom: 80px;
-		border: solid white 3px;
+		border: solid black 2px;
 	}
 }
 @media (max-width: 480px){
@@ -13,7 +13,7 @@
 		margin-top: 5vh;
 	}
 	.photo-style{
-		border: solid white 3px;
+		border: solid black 2px;
 		margin-top: 5vh;
 	}	
 }
